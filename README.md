@@ -21,8 +21,7 @@ To run this project, you need:
 
 To verify Python installation:
 
-```bash
-python --version
+```bash    python --version
 
 Part 1 – Quicksort Analysis
 File:
